@@ -7,7 +7,7 @@
 #<h1>Titanic</h1>
 #RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. It was built by the Harland and Wolff shipyard in Belfast.  <i>~Wikipedia</i>
 #The iceberg unraveled the ship's hull at a length of 90 meters - the length of the hull plating was 90 m, but on the basis of the examination of the size of damage it was clearly stated that it was a series of cracks, the total area of which was just over 1 square meter (1.18), that is, it was equal to the body surface of an adult human.
-#<b> This is my first more extensive program.</b> Writing it, I start my adventure with "more serious programming". This is a secound aproach, this time with OOP.
+#<b> This is my first more extensive program.</b> Writing it, I start my adventure with "more serious programming". This is a secound aproach, this time with OOP.  
 
 #<h4>Chapters:</h4>
 #<i>
