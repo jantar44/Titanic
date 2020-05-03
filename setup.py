@@ -7,3 +7,4 @@ setup(
    author='Me',
    packages=['titanic'],
    install_requires=['pandas', 'numpy', 'matplotlib','sklearn'],
+)
